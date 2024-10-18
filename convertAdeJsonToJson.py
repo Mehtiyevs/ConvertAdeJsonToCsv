@@ -7,7 +7,7 @@ while index <= 46:
     try:
                         # if you have more adeJson files, rename all of their name 
                         # to same one and this functioin will directly get all of them
-        old_filename = f'export-2024-06-24-2207-678183-244036317459436db2_{index}.json'
+        old_filename = f'yourFileName{index}.json'
         new_filename = f'data{index}.json'
 
         
